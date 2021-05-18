@@ -7,6 +7,7 @@ public class Triangle {
 
 	public void hereIsYourTriangle() {
 		System.out.println("Here it is");
+		//merge
 
 	}
 	
