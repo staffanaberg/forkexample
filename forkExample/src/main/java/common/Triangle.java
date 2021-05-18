@@ -9,6 +9,6 @@ public class Triangle {
 	
 	//This class needs to be implemented
 	
-	//Something new
+	//Something newly done
 	
 }
