@@ -26,4 +26,6 @@ public class Triangle {
 		return 30*angle;
 	}
 
+	
+	
 }
