@@ -13,9 +13,7 @@ public class Triangle {
 	
 	//This class needs to be implemented
 	
-<<<<<<< HEAD
-	//Something newly done
-=======
+
 	public int getAngle(int i) {
 		int angle = 0;
 		if(i==0) {
@@ -28,8 +26,4 @@ public class Triangle {
 		
 		return 30*angle;
 	}
-
-	
->>>>>>> branch 'master' of https://github.com/staffanaberg/forkexample
-	
 }
