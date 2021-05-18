@@ -7,6 +7,7 @@ abstract class Shape {
 	// This is the constructor
 	Shape(int x, int y) {
 		moveTo(x, y);
+		//perfect
 	}
 
 	// This gives accessors for x & y
